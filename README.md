@@ -326,31 +326,31 @@ Interactive Drill-through page displaying:
 
 ## Executive Dashboard
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](SupplyChain%20Screenshots/Executive%20Dashboard.png)
 
 ---
 
 ## Customer Analytics
 
-![Customer Analytics](Dashboard%20Screenshots/Customer%20Analytics.png)
+![Customer Analytics](SupplyChain%20Screenshots/Customer%20Analytics.png)
 
 ---
 
 ## Product Analytics
 
-![Product Analytics](Dashboard%20Screenshots/Product%20Analytics.png)
+![Product Analytics](SupplyChain%20Screenshots/Product%20Analytics.png)
 
 ---
 
 ## Sales Trends & Time Intelligence
 
-![Sales Trends](Dashboard%20Screenshots/Sales%20Trends.png)
+![Sales Trends](SupplyChain%20Screenshots/Sales%20Trends.png)
 
 ---
 
 ## Product Performance Details
 
-![Product Details](Dashboard%20Screenshots/Product%20Details.png)
+![Product Details](SupplyChain%20Screenshots/Product%20Details.png)
 
 ---
 
