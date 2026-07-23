@@ -1,4 +1,3 @@
-# Supply-Chain-Analystics
 # 📦 Supply Chain Analytics Dashboard
 
 > An End-to-End Business Intelligence Solution using Python, SQL Server, and Power BI.
