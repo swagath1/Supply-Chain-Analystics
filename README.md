@@ -72,6 +72,8 @@ This project solves these challenges by building a complete analytics solution u
 
 The dataset contains historical supply chain transaction data including customer information, product details, sales, shipping information, market data, and financial metrics.
 
+> **Note:** The full dataset is not included due to GitHub file size limitations. A representative sample dataset is provided for demonstration purposes.
+
 ### Main Attributes
 
 ### Customer Information
